@@ -1,0 +1,8 @@
+# Language detection rules
+
+node_modules/* linguist-vendored
+
+*.htm linguist-vendored
+*.min.js linguist-generated
+
+src/**/*.ts linguist-detectable
